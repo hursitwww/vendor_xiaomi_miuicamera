@@ -8,10 +8,10 @@ Cloning :
 Clone this repo in vendor/xiaomi/miuicamera in your working directory by :
 
 
-'''git clone https://github.com/hursitwww/vendor_xiaomi_miuicamera.git vendor/xiaomi/miuicamera'''
+```git clone https://github.com/hursitwww/vendor_xiaomi_miuicamera.git vendor/xiaomi/miuicamera```
 
 Make these changes in sm6150-common
 sm6150.mk
 
-'''# MiuiCamera
-$(call inherit-product, vendor/xiaomi/miuicamera/config.mk)'''
+```# MiuiCamera
+$(call inherit-product, vendor/xiaomi/miuicamera/config.mk)```
