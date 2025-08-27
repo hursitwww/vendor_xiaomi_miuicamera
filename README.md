@@ -1,7 +1,7 @@
 # vendor_xiaomi_miuicamera
 Miui Camera Support for Adi's Device Tree (Davinci)
 
-Leica Camera 5.0 for Mi 9T/Redmi K20 (davinci) AOSPhttps://github.com/hursitwww/vendor_xiaomi_miuicamera.git
+Leica Camera 5.0 for Mi 9T/Redmi K20 (davinci) AOSP
 
 ### **Cloning :**
 
