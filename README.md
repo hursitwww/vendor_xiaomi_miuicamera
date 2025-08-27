@@ -16,4 +16,5 @@ Make these changes in sm6150-common
 sm6150.mk
 
 ```# MiuiCamera
-$(call inherit-product, vendor/xiaomi/miuicamera/config.mk)```
+$(call inherit-product, vendor/xiaomi/miuicamera/config.mk)
+```
